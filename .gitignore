@@ -1,0 +1,9 @@
+# CSV file
+*.csv
+
+### Visual Studio IDEA ###
+.vscode
+
+# Compiled class file
+__pycache__
+*.pyc
